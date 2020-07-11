@@ -1,0 +1,20 @@
+ #bai7{
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+.left{
+    width: 30%;
+}
+.right{
+    width: 70%;
+    
+}
+.right ol li ul{
+    list-style: square;
+}
+.copyright {
+    color: rgb(59, 9, 40);
+    background-color: blueviolet;
+}
+
