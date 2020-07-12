@@ -1,0 +1,11 @@
+font{
+    font-size: 18px;
+    color:red;
+    font-weight: 100;
+}
+td,tr{
+    border: 1px solid red;
+}
+table,td,tr{
+    border-collapse: collapse;
+}
