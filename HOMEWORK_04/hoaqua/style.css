@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+}
+.left{
+    width: 50%;
+}
+.right{
+   width: 50%;
+}
+.fruit{
+    width: 80%;
+}
+.fruit img{
+    width: 400px;
+    height: 400px;
+}
+#btnShowFruit{
+    width: 20%;
+}

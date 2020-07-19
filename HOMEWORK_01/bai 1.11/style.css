@@ -1,0 +1,9 @@
+ form ,table,tr,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+    
+table{
+    margin-left: 100px;
+    margin-bottom: 40px;
+}
