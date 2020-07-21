@@ -1,8 +1,8 @@
 .sq_b{
     display: flex;
 }
-.sq{
-    background-color: aliceblue;
+.square{
+    background-color: orange;
     width: 100px;
     height: 100px;
     margin: 10px;
