@@ -1,0 +1,35 @@
+#information{
+    display: flex;
+    color:skyblue ;
+}
+#personal{
+    width: 50%;
+    text-align: center;
+    color: skyblue;
+    margin-right: 10px;
+}
+#application{
+    width: 50%;
+    text-align: center;
+    color: skyblue;
+    margin-left: 10px;
+}
+h5{
+    background-color: skyblue;
+    color: white;
+    padding: 10px;
+}
+.character::after{
+    content: "*";
+    color: red;
+}
+.characer-1::before{
+    content: "�";
+            
+}
+h3{
+    color: cornflowerblue;
+}
+label{
+    color:black;
+}
