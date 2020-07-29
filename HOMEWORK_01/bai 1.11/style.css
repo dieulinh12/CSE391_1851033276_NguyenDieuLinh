@@ -1,9 +1,9 @@
- form ,table,tr,td{
-    border: 1px solid black;
-    border-collapse: collapse;
-}
+.main{
+    width: 100%;
     
-table{
-    margin-left: 100px;
-    margin-bottom: 40px;
+}
+table,td{
+    border: 1px solid brown;
+    border-collapse: collapse;
+    background:#bde3e5; 
 }

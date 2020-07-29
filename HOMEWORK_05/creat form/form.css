@@ -1,0 +1,12 @@
+.bg-mycolor{
+    background-color:skyblue;
+}
+.form-group{
+    display: flex;
+}
+lable{
+    width: 30%;
+}
+input{
+    width: 70%;
+}

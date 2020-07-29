@@ -1,4 +1,3 @@
-var jtxtbox = document.getElementsByName("txtbox");
-var jbtnbox = document .getElementsByName("btnbox");
-
-jbtnbox.
+function myFunction() {
+	document.getElementById("kq").innerHTML= document.getElementById("name").value;
+}

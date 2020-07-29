@@ -1,0 +1,6 @@
+table,tr,td{
+    border: 1px solid grey;
+    border-collapse: collapse;
+    background: #ccf5cc;
+    color: green;
+}

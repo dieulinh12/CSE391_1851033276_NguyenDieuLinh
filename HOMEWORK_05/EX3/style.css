@@ -1,0 +1,19 @@
+.bin #1{
+    display: flex;
+}
+ div{
+    width: 60%;
+}
+ svg{
+    width: 60%;
+    
+}
+form{
+    display: flex;
+}
+.btn{
+    display: flex;
+}
+h1{
+    text-align: center;
+}
