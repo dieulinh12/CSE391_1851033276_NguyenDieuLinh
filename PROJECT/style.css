@@ -13,3 +13,31 @@
 .carousel-item{
     display: flex;
 }
+.owl-prev, .owl-next{
+    cursor: pointer;
+    opacity: 1!important ;
+    position: absolute;;
+}
+nav{
+    position: absolute;
+}
+.row.one{
+    display:flex;
+}
+.penci-more-link a.more-link {
+    font-family: 'Raleway',sans-serif;
+    letter-spacing: 1px;
+    color: #6eb48c;
+    text-transform: uppercase;
+    font-size: 12px;
+    display: inline-block;
+    margin-top: 5px;
+    font-weight: bold;
+    position: relative;
+    transition: all .3s;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+}
+.entry-date-published{
+    border-right: gray;
+}
