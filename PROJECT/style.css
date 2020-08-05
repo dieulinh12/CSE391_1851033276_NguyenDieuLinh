@@ -18,8 +18,11 @@
     opacity: 1!important ;
     position: absolute;;
 }
+body{
+    position: relative;
+}
 nav{
-    position: absolute;
+    position: fixed;
 }
 .row.one{
     display:flex;
@@ -39,5 +42,29 @@ nav{
     -moz-transition: all .3s;
 }
 .entry-date-published{
-    border-right: gray;
+    border-right:1px solid gray;
+}
+.card-0{
+    display: flex;
+    
+}
+.card-2{
+    margin-left: 50px;
+}
+.photo img{
+    border: 1px solid;
+    border-radius: 50%;
+}
+button{
+    border: 1px solid gray;
+}
+button:hover{
+     color: white;
+     background-color: red;
+     
+}
+.circle{
+    border: 1px solid gray;
+    border-radius: 50%;
+    
 }
